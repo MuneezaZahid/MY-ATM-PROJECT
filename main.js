@@ -1,4 +1,4 @@
-//ATM machine by Asiya Khan in typescript.
+//ATM machine by Muniza Khan in typescript.
 import inquirer from "inquirer";
 let myBalance = 10000; // Dollar
 let myPin = 1234;
